@@ -27,7 +27,7 @@ const usuarios = [
     },
     {
         id: 4,
-        nomeUsuario: "michael-doug",        
+        nomeUsuario: "batata",        
         senha:"12345",
         email: "michael.doug@soulcodeacademy.org",
     },
